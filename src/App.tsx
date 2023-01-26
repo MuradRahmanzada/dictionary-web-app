@@ -3,7 +3,7 @@ import { Header } from "./components/header";
 
 function App() {
   return (
-    <div className="max-w-2xl mx-auto p-5">
+    <div className="max-w-2xl mx-auto p-14">
       <Header />
       <Form />
     </div>

@@ -1,5 +1,5 @@
-import { Logo } from "../logo";
-import { Toggle } from "../toggle";
+import { Logo } from "../Logo";
+import { Toggle } from "../Toggle";
 
 const Header = () => {
   return (

@@ -25,10 +25,12 @@ function App() {
     setWord("");
   };
   return (
-    <div className="max-w-2xl mx-auto p-14">
-      <Header />
-      <Form handleSubmit={handleSubmit} word={word} setWord={setWord} />
-      <Definition definition={definitions} />
+    <div className="w-full min-h-screen bg-white dark:bg-black">
+      <div className="max-w-2xl mx-auto p-14">
+        <Header />
+        <Form handleSubmit={handleSubmit} word={word} setWord={setWord} />
+        <Definition definition={definitions} />
+      </div>
     </div>
   );
 }

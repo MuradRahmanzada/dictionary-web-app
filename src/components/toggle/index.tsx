@@ -5,7 +5,6 @@ import { CiSun } from "react-icons/ci";
 
 const Toggle = () => {
   const { handleThemeSwitch, theme } = useContext(themeContext);
-  console.log(theme)
 
   return (
     <label className="relative inline-flex items-center cursor-pointer">

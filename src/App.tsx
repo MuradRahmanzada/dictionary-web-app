@@ -24,6 +24,8 @@ function App() {
     }, 500);
     setWord("");
   };
+
+  
   return (
     <div className="w-full min-h-screen bg-white dark:bg-black">
       <div className="max-w-2xl mx-auto p-14">

@@ -1,6 +1,6 @@
 # Frontend Mentor - Dictionary web app
 
-![Design preview for the Dictionary web app coding challenge](./public/assets/desktop-preview.png)
+![Design preview for the Dictionary web app coding challenge](./public/images/desktop-preview.png)
 
 ## Welcome! 👋
 
